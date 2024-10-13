@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://fijatuwivao.pages.dev/sitemap.xml
